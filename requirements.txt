@@ -1,0 +1,7 @@
+numpy>=1.20.0
+pydantic>=1.7.3
+pymongo>=3.11.3
+SoundFile~=0.10.3.post1
+nest_asyncio
+websockets
+webrtcvad~=2.0.10

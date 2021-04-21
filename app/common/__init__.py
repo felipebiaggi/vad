@@ -1,0 +1,3 @@
+from .bsondantic import (
+    BsonModel,
+)
